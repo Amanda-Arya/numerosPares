@@ -1,0 +1,13 @@
+C:\Users\AMANDACV\BaseCSharp\numerosPares\obj\Debug\netcoreapp3.1\numerosPares.csprojAssemblyReference.cache
+C:\Users\AMANDACV\BaseCSharp\numerosPares\obj\Debug\netcoreapp3.1\numerosPares.AssemblyInfoInputs.cache
+C:\Users\AMANDACV\BaseCSharp\numerosPares\obj\Debug\netcoreapp3.1\numerosPares.AssemblyInfo.cs
+C:\Users\AMANDACV\BaseCSharp\numerosPares\obj\Debug\netcoreapp3.1\numerosPares.csproj.CoreCompileInputs.cache
+C:\Users\AMANDACV\BaseCSharp\numerosPares\bin\Debug\netcoreapp3.1\numerosPares.exe
+C:\Users\AMANDACV\BaseCSharp\numerosPares\bin\Debug\netcoreapp3.1\numerosPares.deps.json
+C:\Users\AMANDACV\BaseCSharp\numerosPares\bin\Debug\netcoreapp3.1\numerosPares.runtimeconfig.json
+C:\Users\AMANDACV\BaseCSharp\numerosPares\bin\Debug\netcoreapp3.1\numerosPares.runtimeconfig.dev.json
+C:\Users\AMANDACV\BaseCSharp\numerosPares\bin\Debug\netcoreapp3.1\numerosPares.dll
+C:\Users\AMANDACV\BaseCSharp\numerosPares\bin\Debug\netcoreapp3.1\numerosPares.pdb
+C:\Users\AMANDACV\BaseCSharp\numerosPares\obj\Debug\netcoreapp3.1\numerosPares.dll
+C:\Users\AMANDACV\BaseCSharp\numerosPares\obj\Debug\netcoreapp3.1\numerosPares.pdb
+C:\Users\AMANDACV\BaseCSharp\numerosPares\obj\Debug\netcoreapp3.1\numerosPares.genruntimeconfig.cache
