@@ -22,7 +22,6 @@ namespace numerosPares
                     Console.Write($"{i},");
                 }
             }
-            Menu();
         }
         static void ListarImpares()
         {
@@ -38,17 +37,19 @@ namespace numerosPares
                     Console.Write($"{i},");
                 }
             }
-            Menu();
+
         }
 
         static void ListarPrimos()
         {
+            Console.WriteLine("Os Npumeros primosd e 1 a 100 são:");
             int divisor, numero, contador;
-            contador = 0;
+
             for (numero = 1; numero <= 100; numero++)
             {
+                contador = 0;
 
-                for (divisor = 1; numero <= divisor; divisor++)
+                for (divisor = 1; divisor <= numero; divisor++)
                 {
                     if (numero % divisor == 0)
                     {
@@ -57,9 +58,8 @@ namespace numerosPares
                 }
                 if (contador == 2)
                 {
-                    Console.WriteLine($"Números primos:{numero}");
+                    Console.WriteLine($"{numero}");
                 }
-
             }
         }
         static void Menu()
@@ -72,7 +72,7 @@ namespace numerosPares
             Console.WriteLine(" 3- Listar números primos");
             Console.WriteLine(" 4- Sair");
 
-            int opcao = Int32.Parse(Console.ReadLine());
+            int opcao = int.Parse(Console.ReadLine());
             switch (opcao)
             {
                 case 1: ListarPares(); break;
